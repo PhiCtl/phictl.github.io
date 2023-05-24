@@ -1,1 +1,1 @@
-# phictl.github.io
+# Master thesis data viz website
