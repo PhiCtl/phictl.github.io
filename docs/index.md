@@ -1,1 +1,2 @@
 Trial
+{% include test.html %}
