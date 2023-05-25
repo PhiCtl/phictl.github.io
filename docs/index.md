@@ -1,3 +1,7 @@
 Trial
 
-{% include test.html %}
+{% include heatmap_dates.html %}
+
+
+{% include divs_dates.html %}
+
