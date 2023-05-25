@@ -1,14 +1,12 @@
-# Master thesis
-
-# Question I try to answer
+## Question I try to answer
 about characterizing events, stable pages, recurrent topics
 
-# Explain RTD graph viz tool
+## Explain RTD graph viz tool
 * Where it comes from
 * Why it has been implemented that way
 * What it could bring us for our analysis
 
-# Heatmaps
+## Heatmaps
 * Current events, exclusive types
 * The dimensions we’ll be playing with
 * The limitations: Page level analysis, alpha parameter not optimized
@@ -22,7 +20,7 @@ Explain each graph and comment
 N : comment on the graph silhouette
 Alpha : explain spectrum + what we observe
 
-# Divergence contribution plots
+## Divergence contribution plots
 
 
 {% include divs_dates.html %}
