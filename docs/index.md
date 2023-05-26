@@ -1,3 +1,5 @@
+# Master thesis, overrides title defined in config
+
 ## Question I try to answer
 about characterizing events, stable pages, recurrent topics
 
@@ -6,22 +8,31 @@ about characterizing events, stable pages, recurrent topics
 * Why it has been implemented that way
 * What it could bring us for our analysis
 
-## Heatmaps
+## Throughout a year 
 * Current events, exclusive types
 * The dimensions we’ll be playing with
 * The limitations: Page level analysis, alpha parameter not optimized
 
-{% include heatmap_dates.html %}
+### Heatmap
 
+{% include heatmap_dates.html %}
+**Figure 1.** Make title
 Explain axis, hover data, what it represents, what we can get from it
 
-Explain each graph and comment
-* Date : recurrent topics and topics brought up by events, noisy pages
-N : comment on the graph silhouette
-Alpha : explain spectrum + what we observe
+Explain graph and comment
+* Date : recurrent topics and topics brought up by events, noisy pages. Consecutive months : not enough exclusive types for a pattern to appear
 
-## Divergence contribution plots
-
+### Divergence contribution plots
 
 {% include divs_dates.html %}
+**Figure 2.** Make title and comment. consecutive months !
+
+{% include stats_dates.html %}
+**Figure 3.** Make title and comment. Explain what each contribution represents, how it was computed.
+
+## Focusing on 2 specific months
+
+Explain graps
+N : comment on the graph silhouette
+Alpha : explain spectrum + what we observe
 
